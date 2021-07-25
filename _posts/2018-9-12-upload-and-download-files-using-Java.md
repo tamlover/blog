@@ -4,8 +4,6 @@ title: Java简单实现文件的上传下载
 tags: [Java, SpringBoot, SpringData]
 ---
 
-## 介绍
-
 之所以说简单呢，是因为我把上传的文件直接按二进制的方式存入数据库中了。采用SpringBoot框架，利用SpringData实现持久化操作。
 
 ## 实现
